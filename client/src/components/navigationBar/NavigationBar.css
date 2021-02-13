@@ -1,0 +1,9 @@
+.navclass{
+    background: rgb(0,0,0);
+/* background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(24,19,16,1) 35%, rgba(54,49,46,1) 95%); */
+
+border: 1px solid;
+  
+
+margin-bottom: 1px;
+}
